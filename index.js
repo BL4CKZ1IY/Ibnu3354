@@ -1,5 +1,5 @@
 /*
-]=====> RAMLAN ID <=====[ ]=====> YT Ramlan ID <=====[ ]=====> 085559240360 <=====[
+]=====> Zyy Store <=====[ ]=====> YT Ramlan ID <=====[ ]=====> 089514559295 <=====[
 */
 // ANAK ANJING PASTI YANG ATAS DI UBAH
 // NGOTAK KONSOL
@@ -41,26 +41,26 @@ const { removeBackgroundFromImageFile } = require('remove.bg')
 const { ind } = require('./language')
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:RAMLAN ID\n' // GANTI NAMA LU
-            + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' // GANTI NOMOR LU
+            + 'FN:ManZyy store\n' // GANTI NAMA LU
+            + 'ORG:Zyy Store;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=629514559295:+62 895-1455-9295\n' // GANTI NOMOR LU
             + 'END:VCARD'
 // UDAH SEGITU KONSOL KEBAWAH BIARIN AJA
 const ngonsol = JSON.parse(fs.readFileSync('./settings/Ramlan.json'))
 const {
-    botName,
-    ownerName,
-    BarBarKey,
-    XteamKey,
-    VhtearKey,
-    TobzKey,
-    ownerNumber,
-    botPrefix,
-    GrupLimitz,
-    UserLimitz,
+    bot manzyy,
+    zyystore,
+    2,3 tutup botol muka luh kayak kon***,
+    manzyy store,
+    Vhter,
+    Tboz,
+    6289514559295,
+    ~,
+    10,
+    5,
     CeerTod
 } = ngonsol
-// POWERED BY RAMLAN ID
+// POWERED BY Zyystore
 prefix = botPrefix
 blocked = []   
 limitawal = UserLimitz
